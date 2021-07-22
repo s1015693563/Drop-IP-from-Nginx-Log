@@ -1,1 +1,2 @@
-# Drop-IP-from-Nginx-Log
+1、通过筛查nginx日志将异常频率访问的IP封禁掉
+2、如IP在半小时后恢复正常，则解除封禁
